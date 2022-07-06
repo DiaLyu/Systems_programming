@@ -1,0 +1,5 @@
+﻿  client.c
+D:\Универ\Third course\Systems programming\Course work\Client\client.c(11,42): warning C4101: dwMode: неиспользованная локальная переменная
+D:\Универ\Third course\Systems programming\Course work\Client\client.c(8,12): warning C4101: lpvMessage: неиспользованная локальная переменная
+D:\Универ\Third course\Systems programming\Course work\Client\client.c(11,20): warning C4101: cbToWrite: неиспользованная локальная переменная
+  Client.vcxproj -> D:\Универ\Third course\Systems programming\Course work\coursework\x64\Debug\Client.exe

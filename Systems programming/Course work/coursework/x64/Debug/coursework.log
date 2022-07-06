@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (coursework.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  server.c
+D:\Универ\Third course\Systems programming\Course work\coursework\server.c(25,67): warning C4312: приведение типов: преобразование из "int" в "char *" большего размера
+D:\Универ\Third course\Systems programming\Course work\coursework\server.c(14,25): warning C4101: number: неиспользованная локальная переменная
+D:\Универ\Third course\Systems programming\Course work\coursework\server.c(45,11): warning C4101: cbRead: неиспользованная локальная переменная
+D:\Универ\Third course\Systems programming\Course work\coursework\server.c(45,19): warning C4101: cbWritten: неиспользованная локальная переменная
+  coursework.vcxproj -> D:\Универ\Third course\Systems programming\Course work\coursework\x64\Debug\Server.exe

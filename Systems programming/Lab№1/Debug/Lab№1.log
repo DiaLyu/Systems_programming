@@ -1,0 +1,6 @@
+﻿  Lab№1.cpp
+D:\University\Third course\Systems programming\Lab№1\Lab№1.cpp(1,1): warning C4005: __CLR_VER: изменение макроопределения
+D:\University\Third course\Systems programming\Lab№1\pch.cpp : message : см. предыдущее определение "__CLR_VER"
+D:\University\Third course\Systems programming\Lab№1\Lab№1.cpp(1,1): warning C4651: параметр "/D__CLR_VER=40804400" указан для предкомпилированного заголовка, но не для текущей компиляции
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab№1.vcxproj -> D:\University\Third course\Systems programming\Lab№1\Debug\Lab№1.exe
